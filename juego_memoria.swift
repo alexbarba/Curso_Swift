@@ -1,4 +1,4 @@
-https://github.com/alexbarba/Curso_Swift/blob/master/juego_memoria.swift
+//Link git: https://github.com/alexbarba/Curso_Swift/blob/master/juego_memoria.swift
 let a = 1...100
 for i in a{
     //print(i)
